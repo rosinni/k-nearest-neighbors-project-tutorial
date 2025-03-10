@@ -10,5 +10,6 @@
 	"syntax": "python",
     "projectType": "project",
 	"duration" : 2,
-	"description" : "Use KNN algorithm to build a simple movie recommender system."
+	"description" : "Use KNN algorithm to build a simple movie recommender system.",
+	"gitpod": true
 }
